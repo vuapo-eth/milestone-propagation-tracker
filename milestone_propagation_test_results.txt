@@ -37,9 +37,9 @@ in the IOTA node topology is good enough to not cause major lags (e.g. resulting
 RAW DATA
 ========
 
-collumn 1: timestamp in ms
-collumn 2: milestone
-collumn 3: amount of nodes having received the milestone / sample size
+column 1: timestamp in ms
+column 2: milestone
+column 3: amount of nodes having received the milestone / sample size
 
 1525967924733 (#447688): 1/48
 1525967924953 (#447688): 2/48
